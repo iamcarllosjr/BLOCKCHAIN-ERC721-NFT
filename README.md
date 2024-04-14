@@ -33,4 +33,4 @@
     "collaborators": ["0xA5216C6F685c2b8a678A704107760Be652665234"]
   }
 
-This contract can be deployed on Ethereum blockchain to create a collection of NFTs (Rabbits). Owner of this contract can mint new tokens, set base URI for tokens, check how many tokens an address owns etc. It's a simple example of how to create an NFT collection with ERC721 standard using OpenZeppelin's contracts in Solidity.
+## This contract can be deployed on Ethereum blockchain to create a collection of NFTs (Rabbits). Owner of this contract can mint new tokens, set base URI for tokens, check how many tokens an address owns etc. It's a simple example of how to create an NFT collection with ERC721 standard using OpenZeppelin's contracts in Solidity.
