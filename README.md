@@ -1,6 +1,6 @@
 # NFT SMART CONTRACT
 
-## See the collection on OpenSea : https://testnets.opensea.io/collection/opensea-creatures-107
+## See the collection on OpenSea : https://testnets.opensea.io/collection/opensea-creatures-108
 
 1. **Imports**: This contract imports two other contracts from OpenZeppelin's library, ERC721 for ERC721 standard functionality (NFT creation, ownership, etc.) and Ownable for ownership related functionality (onlyOwner modifier).
 
@@ -27,8 +27,9 @@
 
 {
     "name": "OpenSea Creatures",
-    "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+    "description": "OpenSea Creatures are adorable beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
     "image": "https://violet-tiny-ocelot-777.mypinata.cloud/ipfs/QmcfxpxZFB4szGooppDTsscefKwoq8eDwkSic8JgwHKh5w/1.jpg",
+    "banner_image": "https://violet-tiny-ocelot-777.mypinata.cloud/ipfs/QmcfxpxZFB4szGooppDTsscefKwoq8eDwkSic8JgwHKh5w/1.jpg",
     "external_link": "https://github.com/iamcarllosjr",
     "collaborators": ["0xA5216C6F685c2b8a678A704107760Be652665234"]
   }
