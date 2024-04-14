@@ -1,4 +1,5 @@
 # NFT SMART CONTRACT
+## See the collection on OpenSea : https://testnets.opensea.io/collection/opensea-creatures-107
 
 ### function contractURI() : Opensea expects this function to create NFT collection for contracts ERC721 and ERC1155, it must contain a JSON file similar to : 
 {
