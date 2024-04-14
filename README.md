@@ -1,6 +1,7 @@
 # NFT SMART CONTRACT
 
-## See the collection on OpenSea : https://testnets.opensea.io/collection/opensea-creatures-108
+## See the collection on OpenSea : https://testnets.opensea.io/collection/opensea-creatures-109
+## Address : https://sepolia.etherscan.io/address/0x7973310edb656335b8a96113e375debf45b3a9bd
 
 1. **Imports**: This contract imports two other contracts from OpenZeppelin's library, ERC721 for ERC721 standard functionality (NFT creation, ownership, etc.) and Ownable for ownership related functionality (onlyOwner modifier).
 
